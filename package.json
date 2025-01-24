@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bernibauque/ADA_JAVASCRIPT#readme",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "prompt-sync": "^4.2.0"
   }
 }
