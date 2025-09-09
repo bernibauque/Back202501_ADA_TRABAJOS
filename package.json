@@ -19,6 +19,8 @@
   "homepage": "https://github.com/bernibauque/ADA_JAVASCRIPT#readme",
   "dependencies": {
     "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
     "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10",
     "ts-node": "^10.9.2",
